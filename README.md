@@ -21,7 +21,7 @@
           <li>🚀 I build with <b>Python, Java, JavaScript/TypeScript, React & Node.js</b></li><br/>
           <li>☁️ Comfortable across <b>GCP</b>, <b>AWS</b>, and edge networks like <b>Cloudflare</b> & <b>Vercel</b></li><br/>
           <li>🤖 Exploring <b>AI/ML</b> and diving into <b>Blockchain</b> development</li><br/>
-          <li>🌱 Currently building the WriteAnBlog platform for future bloggers who loves to write</li><br/>
+          <li>🌱 Currently building the <b>WriteAnBlog</b> platform for future bloggers who loves to write</li><br/>
           <li>⚡ Fun fact <b>I think I can help you, just msg 😆</b></li>
         </ul>
       </td>
