@@ -73,19 +73,19 @@
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arpitnigam5&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="arpitnigam5 trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arpitnigam5&theme=tokyonight&no-frame=true" alt="arpitnigam5 trophies" />
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitnigam5&show_icons=true&locale=en&theme=tokyonight&border_color=00F7FF&hide_border=true&bg_color=0D1117" alt="arpitnigam5 stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitnigam5&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_color=00F7FF&hide_border=true&bg_color=0D1117" alt="arpitnigam5 top langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitnigam5&show_icons=true&theme=tokyonight&border_color=00F7FF&hide_border=true" alt="arpitnigam5 stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitnigam5&show_icons=true&layout=compact&theme=tokyonight&border_color=00F7FF&hide_border=true" alt="arpitnigam5 top langs" width="48%" />
 </div>
 <br/>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitnigam5&theme=tokyonight&border_color=00F7FF&hide_border=true&background=0D1117" alt="arpitnigam5 streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitnigam5&theme=tokyonight&border_color=00F7FF&hide_border=true" alt="arpitnigam5 streak" />
 </p>
 <br/>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitnigam5&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="arpitnigam5 activity" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitnigam5&theme=tokyo-night&hide_border=true" alt="arpitnigam5 activity" width="90%"/>
 </p>
