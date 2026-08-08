@@ -19,9 +19,9 @@
         <ul>
           <li>💼 I'm a <b>Software Developer</b> working across <b>Full Stack Development, DevOps, Cloud & AI</b></li><br/>
           <li>🚀 I build with <b>Python, Java, JavaScript/TypeScript, React & Node.js</b></li><br/>
-          <li>☁️ Comfortable across <b>GCP</b> and <b>AWS</b>, with hands-on DevOps (Docker, Kubernetes, CI/CD)</li><br/>
+          <li>☁️ Comfortable across <b>GCP</b>, <b>AWS</b>, and edge networks like <b>Cloudflare</b> & <b>Vercel</b></li><br/>
           <li>🤖 Exploring <b>AI/ML</b> and diving into <b>Blockchain</b> development</li><br/>
-          <li>🌱 Currently leveling up on <b>Full Stack Development</b> and emerging tech</li><br/>
+          <li>🌱 Currently building the future at <b>Zsyio</b> and developing tools like <b>Discipile</b></li><br/>
           <li>⚡ Fun fact <b>I think I can help you, just msg 😆</b></li>
         </ul>
       </td>
@@ -42,29 +42,19 @@
   <a href="https://discord.gg/arpit.n" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Animated Divider" />
+</p>
+
+<h2 align="center">💡 Developer Insight</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Programming Quote" />
+</p>
+
 <br/>
 
-<h2 align="center">💻 Languages & Core Stack</h2>
+<h2 align="center">💻 Tech Stack & Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css&theme=dark" alt="Languages" />
-</p>
-
-<h2 align="center">🎨 Frontend & Backend</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,bootstrap,tailwind,nodejs,spring,flask&theme=dark" alt="Frontend and Backend" />
-</p>
-
-<h2 align="center">☁️ Cloud & DevOps</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,jenkins,terraform,linux,git&theme=dark" alt="Cloud and DevOps" />
-</p>
-
-<h2 align="center">🔗 Data, AI & Blockchain</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,tensorflow,pytorch,solidity,redis,graphql,kafka&theme=dark" alt="Data AI Blockchain" />
-</p>
-
-<h2 align="center">🛠️ Tools</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm&theme=dark" alt="Tools" />
+  <!-- All logos merged into one compact block and scaled down to 75% width -->
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,react,nextjs,angular,bootstrap,tailwind,nodejs,spring,flask,gcp,aws,docker,kubernetes,jenkins,terraform,linux,git,mongodb,mysql,postgres,firebase,tensorflow,pytorch,solidity,redis,graphql,kafka,vscode,postman,figma,npm&theme=dark&perline=13" alt="Tech Stack" width="75%" />
 </p>
