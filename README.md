@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Nigam</h1>
-<h3 align="center"> A passionate Software Engineer from India</h3>
+<h3 align="center">> A passionate Software Engineer from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+Java+%7C+DevOps;Cloud+%7C+AI+%7C+Blockchain+Enthusiast;Building+cool+things+one+commit+at+a+time" alt="Typing SVG" />
@@ -55,6 +55,16 @@
 
 <h2 align="center">💻 Tech Stack & Tools</h2>
 <p align="center">
-  <!-- All logos merged into one compact block and scaled down to 75% width -->
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,react,nextjs,angular,bootstrap,tailwind,nodejs,spring,flask,gcp,aws,docker,kubernetes,jenkins,terraform,linux,git,mongodb,mysql,postgres,firebase,tensorflow,pytorch,solidity,redis,graphql,kafka,vscode,postman,figma,npm&theme=dark&perline=13" alt="Tech Stack" width="75%" />
+</p>
+
+<br/>
+
+<h2 align="center">😂 Daily Developer Joke</h2>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer" alt="Footer Wave" width="100%"/>
 </p>
