@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Nigam</h1>
-<h3 align="center">> A passionate Software Engineer from India</h3>
+<h3 align="center"> A passionate Software Engineer from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+Java+%7C+DevOps;Cloud+%7C+AI+%7C+Blockchain+Enthusiast;Building+cool+things+one+commit+at+a+time" alt="Typing SVG" />
@@ -21,7 +21,7 @@
           <li>🚀 I build with <b>Python, Java, JavaScript/TypeScript, React & Node.js</b></li><br/>
           <li>☁️ Comfortable across <b>GCP</b>, <b>AWS</b>, and edge networks like <b>Cloudflare</b> & <b>Vercel</b></li><br/>
           <li>🤖 Exploring <b>AI/ML</b> and diving into <b>Blockchain</b> development</li><br/>
-          <li>🌱 Currently building the future at <b>Zsyio</b> and developing tools like <b>Discipile</b></li><br/>
+          <li>🌱 Currently building the WriteAnBlog platform for future bloggers who loves to write</li><br/>
           <li>⚡ Fun fact <b>I think I can help you, just msg 😆</b></li>
         </ul>
       </td>
@@ -37,9 +37,6 @@
 <h2 align="center">🌐 Connect with me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/arpit-nigam-531553212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/arpitnigam05" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://leetcode.com/arpit_n/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://discord.gg/arpit.n" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 <p align="center">
